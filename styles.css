@@ -1,0 +1,34 @@
+.first{
+    
+    background-color:#B7C9E2;
+    
+    
+    }
+.second{
+   background-color: white;
+   margin:0px auto;
+   width:300px;
+   height:480px;
+   border-radius:15px;
+   padding:20px;
+   
+}
+.third{
+    padding:0px;
+    margin:0px;
+    
+    
+}
+img{
+    width: 300px; /* Adjust the width */
+    padding: 0px; /* Add padding around the image */
+    border-radius: 10px; /* Add rounded corners */
+    margin:1px;
+}
+   
+
+#this{
+    color:gray;
+    font-size:15px;
+   
+}
